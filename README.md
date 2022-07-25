@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/AI-1900?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
 <!--
 **AI-1900/AI-1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
